@@ -1,0 +1,2 @@
+rootProject.name='UDFile'
+include ':app'
